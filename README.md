@@ -29,8 +29,4 @@ display total
 checkout button links to /checkout.html
 
 in checkout html:
-include top nav without dropdown
-display each item similarly to dropdown
-can preview small print if wanted
 option to remove from cart => remove from array, decremements nav header, decremements total
-include footer
